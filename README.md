@@ -29,7 +29,7 @@ else:
 ```
     
 ## Output:
-<img width="1143" height="247" alt="Screenshot 2025-08-14 101945" src="https://github.com/user-attachments/assets/c19500b5-86ac-4dcc-83f5-c1ea2da42a95" />
+<img width="1265" height="872" alt="image" src="https://github.com/user-attachments/assets/2897b9fe-0408-4d01-8ac4-371a5da16d13" />
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
